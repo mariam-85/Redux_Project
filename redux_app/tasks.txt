@@ -1,0 +1,13 @@
+1. Создать компоненты LanguageCards (form и div) и LanguageCard (карточка со словом)
+2. Научить форму при сабмите выводить собранные данные в консоль в виде объекта
+3. Создать languageCardsReducer
+4. Добавить languageCardsReducer в rootReducer под ключом languageCards
+5. Создать action addCard
+6. Прописать логику для addCard в languageCardsReducer
+7. Импортировать languageCardsReducer в компонент, 
+8. Вызвать action, используя dispatch
+9. Достать из store state
+10. Из state сформировать карточки
+11. Создать action для переворота карточки по клику.
+12. Реализовать этот action
+13. Создать action deleteCard. Реализовать этот action при двойном клике на карточку
